@@ -18,7 +18,6 @@ echo 'Hello World!';
 ?>
 ```
 ---
-
 ## Comments
 
 Comments are lines of code that will be ignored by the PHP interpreter.
@@ -46,7 +45,6 @@ echo 'Hello World!';
 ```
 
 ---
-
 ## Case Sensitivity in PHP
 
 Variable's names are case-sensitive in PHP. Names like ```$Variable```  ```$variable``` and ```$variAble``` will reference different variables.
